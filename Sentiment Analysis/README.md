@@ -6,6 +6,8 @@ This project analyzes a social-media dataset containing post text, sentiment/emo
 
 The goal is to understand how sentiment and other contextual factors relate to social-media engagement.
 
+Visuals link: https://public.tableau.com/app/profile/joshua.ikem/viz/Book1_17508045453400/Dashboard5?publish=yes
+
 ### Main analytical question
 
 **How does sentiment relate to social-media engagement, and how does this relationship vary across platforms, countries, and time?**
